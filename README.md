@@ -1,69 +1,57 @@
-# [Start Bootstrap - Resume](https://startbootstrap.com/theme/resume/)
+# Mohamed Hussain Shahul Hameed - Personal Portfolio
 
-[Resume](https://startbootstrap.com/theme/resume/) is a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+This is a personal portfolio website built using the [Start Bootstrap - Resume](https://startbootstrap.com/theme/resume/) template. It showcases my projects, skills, experiences, and achievements in a professional and elegant format.
 
 ## Preview
 
 [![Resume Preview](https://assets.startbootstrap.com/img/screenshots/themes/resume.png)](https://startbootstrap.github.io/startbootstrap-resume/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://mohhddhassan.github.io/My_Portfolio/)**
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-resume/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mohhddhassan/My_Portfolio/main/LICENSE)
 
-## Download and Installation
+## About the Portfolio
 
-To begin using this template, choose one of the following options to get started:
+- Developed and customized by **Mohamed Hussain Shahul Hameed**
+- Final year Computer Science Engineering student at Rajalakshmi Engineering College, Chennai.
+- Passionate about Web Development, Machine Learning, and Cloud Computing.
+- Actively participated in IEEE conferences and national-level hackathons.
+- Experience building ML-powered dashboards, real-time analytics systems (ClickHouse + Streamlit), and AutoML-based forecasting apps.
 
-- [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/resume/)
-- Install using npm: `npm i startbootstrap-resume`
-- Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-resume.git`
-- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-resume)
+## Projects Highlighted
 
-## Usage
+- **AutoTrend** – An AutoML-driven demand prediction web app
+- **MedRep** – A community-driven platform to share and discuss medical cases
+- **Real-Time Analytics Dashboard** – Built using ClickHouse, Python, and Streamlit
+
+## How to Use
 
 ### Basic Usage
 
-After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+After downloading or cloning the repository, edit the HTML and CSS files inside the `dist` directory. You can preview the portfolio by opening `index.html` in your browser.
 
 ### Advanced Usage
 
-Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
+1. Clone the repository and navigate to the folder.
+2. Run `npm install` to install dependencies.
+3. Run `npm start` to launch a development server with live preview and auto-reload.
 
-#### npm Scripts
+### npm Scripts
 
-- `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
-- `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
-- `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
-- `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
-- `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
-- `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
-- `npm run start:debug` runs the project in debug mode
-- `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
+- `npm run build` – Builds all files into the `dist` folder.
+- `npm run start` – Runs the project in development mode with live reloading.
 
-You must have npm installed in order to use this build environment.
+You must have Node.js and npm installed to use the advanced build system.
 
-## Bugs and Issues
+## Contact
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-resume/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/theme/resume/).
+If you'd like to connect, collaborate, or have any queries:
+- GitHub: [mohhddhassan](https://github.com/mohhddhassan)
+- Email: mohamedhussainshahulhameed@gmail.com
+- LinkedIn: [Mohamed Hussain Shahul Hameed](https://www.linkedin.com/in/mohamedhussainshahulhameed)
 
-## About
+## License
 
-Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-- <https://startbootstrap.com>
-- <https://twitter.com/SBootstrap>
-
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
-
-- <https://davidmiller.io>
-- <https://twitter.com/davidmillerhere>
-- <https://github.com/davidtmiller>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE) license.
+This project is based on Start Bootstrap Resume and is licensed under the [MIT License](https://github.com/mohhddhassan/My_Portfolio/blob/main/LICENSE).
