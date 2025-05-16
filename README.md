@@ -15,10 +15,16 @@ This is a personal portfolio website built using the [Start Bootstrap - Resume](
 ## About the Portfolio
 
 - Developed and customized by **Mohamed Hussain Shahul Hameed**
-- Final year Computer Science Engineering student at Rajalakshmi Engineering College, Chennai.
-- Passionate about Web Development, Machine Learning, and Cloud Computing.
-- Actively participated in IEEE conferences and national-level hackathons.
-- Experience building ML-powered dashboards, real-time analytics systems (ClickHouse + Streamlit), and AutoML-based forecasting apps.
+- Associate Data Engineer Intern at Quantrail Data Pvt. Ltd., working on scalable ETL pipelines and ClickHouse-based real-time analytics.
+- Strong interest in Data Engineering, Machine Learning, and Cloud-native applications.
+- Experience in building high-performance dashboards and automation systems using ClickHouse, Streamlit, Flask, and AutoML.
+- Enthusiastic about designing intelligent, user-friendly applications with clean data workflows.
+- Key Projects:
+  - **Realtime_Sales_Analytics** – A real-time retail sales dashboard built using Python, ClickHouse, and Streamlit to provide KPI insights and live data analysis.
+  - **AutoTrend** – An AutoML-powered demand prediction system using ensemble models with NLP-based query interface for sales forecasting.
+  - **MedRem** – A 24-hour hackathon-built app that lets users schedule, track, and get medication reminders.
+  - **EduTrack** – A productivity-focused platform created during a hackathon to help students track assignments, deadlines, and academic tasks.
+
 
 ## Projects Highlighted
 
