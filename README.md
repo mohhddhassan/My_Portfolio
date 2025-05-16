@@ -4,9 +4,9 @@ This is a personal portfolio website built using the [Start Bootstrap - Resume](
 
 ## Preview
 
-[![Resume Preview](https://assets.startbootstrap.com/img/screenshots/themes/resume.png)](https://startbootstrap.github.io/startbootstrap-resume/)
-
+![Resume Preview](https://mohhddhassan.github.io/My_Portfolio/assets/img/profile.jpg) <!-- or wherever your updated profile image is -->
 **[View Live Preview](https://mohhddhassan.github.io/My_Portfolio/)**
+
 
 ## Status
 
