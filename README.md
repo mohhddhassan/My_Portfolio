@@ -8,7 +8,7 @@ Built using the [Start Bootstrap - Resume](https://startbootstrap.com/theme/resu
 
 ## 🌐 Live Preview
 
-![Portfolio Preview](https://mohhddhassan.github.io/My_Portfolio/assets/img/profile.jpg)
+
 🔗 **[Check it out live](https://mohhddhassan.github.io/My_Portfolio/)**
 
 ---
